@@ -1,0 +1,11 @@
+2023-12-17 22:55:43.668 [JavaFX Application Thread] INFO  com.example.graph.GraphsWindow - Starting program...
+2023-12-17 22:55:57.045 [JavaFX Application Thread] INFO  com.example.graph.GraphsWindow - The next button is pressed
+2023-12-17 22:55:57.064 [JavaFX Application Thread] INFO  com.example.graph.GraphsWindow - Open graph window
+2023-12-17 22:55:57.074 [JavaFX Application Thread] INFO  com.example.graph.GraphsWindow - Nodes have been created
+2023-12-17 22:55:57.078 [JavaFX Application Thread] INFO  com.example.graph.GraphsWindow - Edges have been created
+2023-12-17 22:55:57.079 [JavaFX Application Thread] INFO  com.example.graph.GraphsWindow - Loops have been created
+2023-12-17 22:55:57.086 [JavaFX Application Thread] INFO  com.example.graph.GraphsWindow - Arrow have been created
+2023-12-17 22:55:57.089 [JavaFX Application Thread] INFO  com.example.graph.GraphsWindow - Graph have been created
+2023-12-17 22:55:57.090 [JavaFX Application Thread] INFO  com.example.graph.GraphsWindow - The number of cycles is calculated
+2023-12-17 22:55:57.227 [JavaFX Application Thread] INFO  com.example.graph.GraphsWindow - Open calculation window
+2023-12-17 22:56:03.193 [JavaFX Application Thread] INFO  com.example.graph.GraphsWindow - Stop program
